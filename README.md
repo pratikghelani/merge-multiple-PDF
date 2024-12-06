@@ -1,4 +1,7 @@
 # merge-multiple-PDF
 
-pip install PyPDF2
+  ```bash
+  pip install PyPDF2
+
+```bash
 python index.py
